@@ -26,7 +26,9 @@ export const Header = () => {
         </ul>
       </nav>
 
-      <p>{t("Header.thanks")}</p>
+      <p>
+        {t("Header.thanks")} {t("Header.you")}
+      </p>
     </div>
   );
 };
