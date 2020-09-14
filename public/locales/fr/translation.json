@@ -3,6 +3,10 @@
     "thanks": "Merci",
     "you": "de regarder cette vidéo"
   },
+  "Titles": {
+    "home_page": "Page d'accueil",
+    "login_page": "Page de log in"
+  },
   "why": {
     "1": "de regarder cette vidéo"
   }
