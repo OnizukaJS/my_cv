@@ -12,7 +12,7 @@ export const Header = () => {
   return (
     <div>
       <nav className="header">
-        <h1>Hello Widoun & JB</h1>
+        <h1>{t("Header.hi")}</h1>
         <ul className="header_links">
           <li>
             <Link to={"/"}>Home</Link>
