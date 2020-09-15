@@ -4,9 +4,16 @@
     "you": "de regarder cette vidéo",
     "hi": "Bonjour Widoun & JB"
   },
+  "Login": {
+    "signout": "Se déconnecter",
+    "signup": "Se Connecter",
+    "password": "mot de passe",
+    "login": "Nom d'utilisateur"
+  },
   "Titles": {
     "home_page": "Page d'accueil",
-    "login_page": "Page de log in"
+    "login_page": "Page de log in",
+    "signup_page": "Page de signup"
   },
   "why": {
     "1": "de regarder cette vidéo"

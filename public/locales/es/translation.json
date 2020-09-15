@@ -4,9 +4,16 @@
     "you": "para mirar este video",
     "hi": "Hola Widoun & JB"
   },
+  "Login": {
+    "signout": "Desconectarse",
+    "signup": "Conectarse",
+    "password": "contrasena",
+    "login": "Registrarse"
+  },
   "Titles": {
     "home_page": "Pagina de accueil",
-    "login_page": "Pagina de login"
+    "login_page": "Pagina de login",
+    "signup_page": "Pagina de signup"
   },
   "why": {
     "1": "para mirar este video"

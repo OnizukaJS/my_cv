@@ -4,9 +4,16 @@
     "you": "for watching this video",
     "hi": "Hello Widoun & JB"
   },
+  "Login": {
+    "signout": "Sign Out",
+    "signup": "Sign Up",
+    "password": "password",
+    "login": "Login"
+  },
   "Titles": {
     "home_page": "Home Page",
-    "login_page": "Login Page"
+    "login_page": "Login Page",
+    "signup_page": "Signup Page"
   },
   "why": {
     "1": "for watching this video"
